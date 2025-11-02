@@ -76,8 +76,8 @@ Thank you for your interest in contributing to BLANK Browser! We welcome contrib
 ```bash
 # Click "Fork" on GitHub
 # Clone your fork locally
-git clone https://github.com/[your-username]/blank-browser.git
-cd blank-browser
+git clone https://github.com/TheAK12/Blank.git
+cd Blank
 ```
 
 ### Step 2: Create a Feature Branch
